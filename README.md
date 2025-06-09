@@ -1,6 +1,6 @@
 ## Guilherme Oliveira
 
-Sou estudante de Ciência de Dados na Universidade Presbiteriana Mackenzie, com conhecimento em Python, R, SQL e Power BI voltado para análise de dados, estatística e visualização.
+Sou estudante de Ciência de Dados na Universidade Presbiteriana Mackenzie, com conhecimento em Python, R, SQL e Power BI voltado para matemática e visualização de dados.
 
 Tenho interesse em áreas como Big Data, Inteligência Artificial, Análise de Dados, Ciência de Dados e Machine Learning, e busco constantemente aprender e aplicar novos conceitos na prática.
 
